@@ -1,12 +1,77 @@
-# React + Vite
+# React CRUD App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple CRUD (Create, Read, Update, Delete) application built with React.js and Axios. The application interacts with the JSONPlaceholder API to perform CRUD operations and demonstrates API integration using React Hooks.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Display Posts
+* Add New Posts
+* Update Existing Posts
+* Delete Posts
+* API Integration with Axios
+* React Hooks (useState, useEffect)
+* Form Handling
+* Component-Based Architecture
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React.js
+* JavaScript (ES6+)
+* Axios
+* CSS3
+* JSONPlaceholder API
+
+## 📦 Installation
+
+### Clone Repository
+
+```bash
+git clone https://github.com/your-username/react-crud-app.git
+```
+
+### Navigate to Project Folder
+
+```bash
+cd react-crud-app
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Start Development Server
+
+```bash
+npm run dev
+```
+
+or
+
+```bash
+npm start
+```
+
+(depending on your setup)
+
+## 🔗 API Used
+
+https://jsonplaceholder.typicode.com/
+
+
+
+## 🎯 What I Learned
+
+* CRUD Operations
+* API Requests with Axios
+* React Hooks
+* State Management
+* Component Reusability
+* Form Validation
+
+## 👨‍💻 Author
+
+Shaban Rasheed
+
+Aspiring MERN Stack Developer
