@@ -26,13 +26,13 @@ A simple CRUD (Create, Read, Update, Delete) application built with React.js and
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/react-crud-app.git
+git clone https://github.com/Shaban-Rasheed-dev/react-axios-crud-app
 ```
 
 ### Navigate to Project Folder
 
 ```bash
-cd react-crud-app
+cd react-axios-crud-app
 ```
 
 ### Install Dependencies
